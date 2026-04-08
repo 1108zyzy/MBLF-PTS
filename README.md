@@ -1,6 +1,6 @@
 # **Multi-Bias Logit Fusion in a Pseudo-Text Space for CLIP Few-Shot Learning**
 
-![](F:\MBLF-PTS-main\figures\framework.png)
+![](https://github.com/1108zyzy/MBLF-PTS/tree/main/figs/framework.png)
 
 ## 🔍Overview
 
