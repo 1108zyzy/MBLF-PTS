@@ -6,7 +6,7 @@
 
 This repository contains the implementation of  MBLF-PTS for image classification with a pre-trained CLIP. We consider four task settings:  
 
-![](F:\MBLF-PTS-main\figures\task.png)
+![](figs/task.png)
 
 * Zero-shot classification in a test-time adaptation manner
 * Few-shot classification
@@ -200,20 +200,20 @@ done
 ## 📜Main Results
 
 #### Zero-shot Classification
-![zs](F:\MBLF-PTS-main\figures\zs.png)
+![zs](figs/zs.png)
 
 
 #### Few-shot Classification
 
-![fs](F:\MBLF-PTS-main\figures\fs.png)
+![fs](figs/fs.png)
 
 
 #### Out-of-Distribution Generalization
 
-![ood](F:\MBLF-PTS-main\figures\ood.png)
+![ood](figs/ood.png)
 
 #### **I2T-w Visualization**
 
 <img src="F:\MBLF-PTS-main\figures\umap.png" style="zoom:67%;" />
 
-![](F:\MBLF-PTS-main\figures\reli.png)
+![](figs/reli.png)
